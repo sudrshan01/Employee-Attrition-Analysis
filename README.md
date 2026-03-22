@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Employee Attrition Analysis
 
 ## 📌 Overview
@@ -32,3 +33,6 @@ This project analyzes employee data to understand the reasons behind employee at
 
 ## 👨‍💻 Author
 Sudrshan Genure 
+=======
+# Employee-Attrition-Analysis
+>>>>>>> a65593e0ad5ce6ebd05cea36f2122362b6eb109e
