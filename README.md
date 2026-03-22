@@ -24,7 +24,7 @@ This project analyzes employee data to understand the reasons behind employee at
 ## 📁 Project Structure
 - data/ → dataset
 - output/ → graphs
-- notebook.ipynb → main analysis
+- Employee_Attrition_Analysis.ipynb → main analysis
 
 ## 🚀 Future Improvements
 - Add Machine Learning model
