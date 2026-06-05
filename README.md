@@ -23,7 +23,7 @@ This project analyzes employee data to understand the reasons behind employee at
 ## Install Required Libraries
 
 ```bash
-pip install pandas numpy matplotlib seaborn openpyxl jupyter
+pip install pandas numpy matplotlib seaborn openpyxl
 ```
 
 ---
