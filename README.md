@@ -1,6 +1,6 @@
-# 📊 Employee Attrition Analysis
+# Employee Attrition Analysis
 
-## 📌 Overview
+## Overview
 This project analyzes employee data to understand the reasons behind employee attrition.
 
 ## 🎯 Objectives
@@ -8,25 +8,31 @@ This project analyzes employee data to understand the reasons behind employee at
 - Perform data analysis and visualization
 - Generate insights for decision making
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
-## 📊 Key Insights
+## Key Insights
 - Low satisfaction leads to higher attrition
 - Low salary employees leave more
 - Promotions reduce attrition
 - Certain departments have high attrition
+## Install Required Libraries
 
-## 📁 Project Structure
+```bash
+pip install pandas numpy matplotlib seaborn openpyxl jupyter
+```
+
+---
+## Project Structure
 - data/ → dataset
 - output/ → graphs
 - Employee_Attrition_Analysis.ipynb → main analysis
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add Machine Learning model
 - Build dashboard using Streamlit
 
