@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes employee data to understand the reasons behind employee attrition.
 
-## 🎯 Objectives
+## Objectives
 - Identify key factors affecting attrition
 - Perform data analysis and visualization
 - Generate insights for decision making
@@ -36,6 +36,6 @@ pip install pandas numpy matplotlib seaborn openpyxl jupyter
 - Add Machine Learning model
 - Build dashboard using Streamlit
 
-## 👨‍💻 Author
+## Author
 Sudrshan Genure 
 
